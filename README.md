@@ -1,3 +1,3 @@
 # My First Git Project
-Iam learning Git and Github.
-Todat is day 1.
+I am learning Git and Github.
+Today is day 1.
