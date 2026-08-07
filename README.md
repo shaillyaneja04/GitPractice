@@ -1,3 +1,3 @@
 # My First Git Project
 Iam learning Git and Github.
-g
+Todat is day 1.
