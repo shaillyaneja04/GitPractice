@@ -6,7 +6,7 @@ function App() {
   return (
     <View style={styles.container}>
       <View style={styles.box}>
-        <Text style={styles.title}>Hello Shani!</Text>
+        <Text style={styles.title}>Shani!</Text>
         <Text style={styles.text}>Your React Native SPA is working.</Text>
         <TouchableOpacity style={styles.button}>
           <Text style={styles.buttonText}>OK</Text>
